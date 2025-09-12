@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box; 
+}
+
+nav {
+    background-color: rgb(17, 17, 126);
+    height: 70px;
+     padding-top: 5px;
+}
+nav li {
+   display: inline;
+}
+
+nav li a {
+    margin: 5px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+   
+}
+
+.afterhead {
+    background-image: url(bg_office.jpeg);
+    height: 100px;   height: 250px;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 200px;
+    padding: 20px;
+}
+
+#content {
+    border: 1px solid;
+    width: 100%;
+    content: none;
+    clear: both;
+    display: table;
+}
+
+.img {
+    float: right;
+    width: 33.33%;
+    padding: 5% 5%;
+}
+
+.p {
+    width: 33.33%;
+    padding: 5% 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#footer {
+    background-color: black;
+    border: 1px solid;
+    width: 100%;
+    content: none;
+    clear: both;
+    display: table;
+}
+
+.div1 {
+    width: 25%;
+    overflow: auto;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2%;
+    border-bottom: 2px solid green;
+}
+
+.img1 {
+    float: left;
+    padding-bottom: 100px;
+}
+
+.div2 {
+    float: left;
+    width: 25%;
+    padding: 2%;
+}
+
+.div3 {
+    float: left;
+    width: 25%;
+    padding: 2%;
+}
+
+.div4 {
+    float: right;
+    width: 25%;
+    padding: 2%;
+}
+
+h2 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+
+.a a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+.b a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.c a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.d a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.end {
+    background-color: rgb(32, 30, 30);
+    color: white;
+    -webkit-margin-collapse: collapse;
+    height: 100px;
+    padding-left: 70px;
+    padding-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
