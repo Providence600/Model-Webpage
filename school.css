@@ -142,5 +142,15 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+@media screen and (max-width: 600px) {
+  #content .img {
+    width: 100%;
+  }
+
+  .div1, .div2, .div3, .div4 {
+    width: 100%;
+  }
+}
+
 
 
