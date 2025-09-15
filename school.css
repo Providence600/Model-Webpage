@@ -46,9 +46,10 @@ nav li a {
     padding: 5% 5%;
 }
 
-.p {
+.header {
     width: 33.33%;
     padding: 5% 5%;
+    float: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -151,6 +152,7 @@ h2 {
     width: 100%;
   }
 }
+
 
 
 
