@@ -20,17 +20,19 @@ nav li a {
 }
 
 .afterhead {
-    background-image: url(bg_office.jpeg);
-    height: 100px;   height: 250px;
-}
-
-.header {
     background-color: black;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 200px;
     width: 100%;
     padding: 20px;
+
+}
+
+.header {
+    
+    background-image: url(bg_office.jpeg);
+    height: 100px;   height: 250px;
 }
 
 #content {
@@ -151,6 +153,7 @@ h2 {
     width: 100%;
   }
 }
+
 
 
 
